@@ -170,9 +170,9 @@ Keep practicing and honing your skills with the CLI, and don't hesitate to explo
 # 🎓 **Additional Resources**
 
 - [TODO: add the link] Machine Learning REPA School: extended materials with practice, assessment, and feedback 
-- [Unix Tutorial for Beginners](https://www.ee.surrey.ac.uk/Teaching/Unix/)**
-- [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)**
-- [Introduction to the Unix Shell](https://swcarpentry.github.io/shell-novice/)**
+- [Unix Tutorial for Beginners](https://www.ee.surrey.ac.uk/Teaching/Unix/)
+- [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+- [Introduction to the Unix Shell](https://swcarpentry.github.io/shell-novice/)
 
 # 🚀 Your Feedback is Important to the Community!
 
